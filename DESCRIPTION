@@ -1,0 +1,13 @@
+Package: guttman
+Type: Package
+Title: Analysis of reliability of Guttman scales
+Version: 0.1.0
+Author: Michał Libura
+Maintainer: Michał Libura <liburam@gmail.com>
+Description: Simple package for analysis of reliability of Guttman scales.
+    Allows for computing coefficient of reproducibility and coefficient of
+    scalability.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
